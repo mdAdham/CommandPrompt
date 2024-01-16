@@ -1,0 +1,8 @@
+help
+cls
+heck 111
+xckls's
+scls
+cls
+msg "Hello World" "Hello World"
+msg "Hello World"
